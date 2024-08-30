@@ -1,0 +1,23 @@
+{
+    "expenses": [
+      {
+        "id": 1,
+        "description": "Compra de bolsas para envasado",
+        "amount": 25.00,
+        "date": "2024-08-29T10:15:00Z"
+      },
+      {
+        "id": 2,
+        "description": "Pago de electricidad",
+        "amount": 150.75,
+        "date": "2024-08-29T11:30:00Z"
+      },
+      {
+        "id": 3,
+        "description": "Compra de cajas para pizzas",
+        "amount": 45.50,
+        "date": "2024-08-29T14:00:00Z"
+      }
+    ]
+  }
+  

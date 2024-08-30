@@ -1,0 +1,165 @@
+{
+  "sales": [
+    {
+      "id": 1,
+      "items": [
+        {
+          "productId": 1,
+          "name": "Pizza Congelada",
+          "quantity": 2,
+          "price": 5.99,
+          "total": 11.98
+        },
+        {
+          "productId": 3,
+          "name": "Nuggets de Pollo",
+          "quantity": 1,
+          "price": 7.99,
+          "total": 7.99
+        }
+      ],
+      "total": 19.97,
+      "date": "2024-08-27T15:23:01Z"
+    },
+    {
+      "id": 2,
+      "items": [
+        {
+          "productId": 2,
+          "name": "Helado de Vainilla",
+          "quantity": 3,
+          "price": 2.49,
+          "total": 7.47
+        }
+      ],
+      "total": 7.47,
+      "date": "2024-08-27T15:23:01Z"
+    },
+    {
+      "items": [
+        {
+          "productId": 3,
+          "name": "Nuggets de Pollo",
+          "quantity": 23,
+          "price": 7.99,
+          "total": 183.77
+        },
+        {
+          "productId": 4,
+          "name": "Hamburguesa Congelada",
+          "quantity": 33,
+          "price": 6.5,
+          "total": 214.5
+        }
+      ],
+      "id": 3,
+      "date": "2024-08-29T15:38:25.357Z"
+    },
+    {
+      "items": [
+        {
+          "id": 1,
+          "name": "Filete de Merluza",
+          "price": 8.99,
+          "stock": 120
+        },
+        {
+          "id": 4,
+          "name": "Calamares en Rodajas",
+          "price": 9.5,
+          "stock": 95
+        },
+        {
+          "id": 9,
+          "name": "Filete de Tilapia",
+          "price": 6.99,
+          "stock": 110
+        }
+      ],
+      "id": 4,
+      "date": "2024-08-29T15:51:06.924Z"
+    },
+    {
+      "items": [
+        {
+          "id": 1,
+          "name": "Filete de Merluza",
+          "price": 8.99,
+          "stock": 120,
+          "quantity": 12
+        },
+        {
+          "id": 2,
+          "name": "Filete de Salmón",
+          "price": 12.99,
+          "stock": 85,
+          "quantity": 34
+        },
+        {
+          "id": 7,
+          "name": "Pulpo Cocido",
+          "price": 18.99,
+          "stock": 50,
+          "quantity": 50
+        }
+      ],
+      "id": 5,
+      "date": "2024-08-29T16:02:30.908Z"
+    },
+    {
+      "items": [
+        {
+          "id": 1,
+          "name": "Filete de Merluza",
+          "price": 8.99,
+          "stock": 110,
+          "quantity": 11
+        }
+      ],
+      "id": 6,
+      "date": "2024-08-29T18:04:03.580Z"
+    },
+    {
+      "items": [
+        {
+          "id": 1,
+          "name": "Filete de Merluza",
+          "price": 8.99,
+          "stock": 110,
+          "quantity": 21
+        },
+        {
+          "id": 5,
+          "name": "Anillas de Calamar",
+          "price": 7.99,
+          "stock": 150,
+          "quantity": 12
+        }
+      ],
+      "total": 284.66999999999996,
+      "id": 7,
+      "date": "2024-08-29T23:39:48.267Z"
+    },
+    {
+      "items": [
+        {
+          "id": 1,
+          "name": "Filete de Merluza",
+          "price": 8.99,
+          "stock": 110,
+          "quantity": 12
+        },
+        {
+          "id": 4,
+          "name": "Calamares en Rodajas",
+          "price": 9.5,
+          "stock": 95,
+          "quantity": 12
+        }
+      ],
+      "total": 221.88,
+      "id": 8,
+      "date": "2024-08-30T16:27:39.481Z"
+    }
+  ]
+}

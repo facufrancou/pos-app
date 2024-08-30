@@ -1,0 +1,304 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Filete de Merluza",
+      "price": 8.99,
+      "stock": 110
+    },
+    {
+      "id": 2,
+      "name": "Filete de Salmón",
+      "price": 12.99,
+      "stock": 85
+    },
+    {
+      "id": 3,
+      "name": "Gambas Congeladas",
+      "price": 15.99,
+      "stock": 60
+    },
+    {
+      "id": 4,
+      "name": "Calamares en Rodajas",
+      "price": 9.5,
+      "stock": 95
+    },
+    {
+      "id": 5,
+      "name": "Anillas de Calamar",
+      "price": 7.99,
+      "stock": 150
+    },
+    {
+      "id": 6,
+      "name": "Filete de Atún",
+      "price": 14.99,
+      "stock": 75
+    },
+    {
+      "id": 7,
+      "name": "Pulpo Cocido",
+      "price": 18.99,
+      "stock": 50
+    },
+    {
+      "id": 8,
+      "name": "Bacalao Desalado",
+      "price": 13.5,
+      "stock": 65
+    },
+    {
+      "id": 9,
+      "name": "Filete de Tilapia",
+      "price": 6.99,
+      "stock": 110
+    },
+    {
+      "id": 10,
+      "name": "Mejillones en su Concha",
+      "price": 5.99,
+      "stock": 130
+    },
+    {
+      "id": 11,
+      "name": "Camarones Pelados",
+      "price": 16.99,
+      "stock": 55
+    },
+    {
+      "id": 12,
+      "name": "Filete de Róbalo",
+      "price": 11.99,
+      "stock": 70
+    },
+    {
+      "id": 13,
+      "name": "Langostinos Congelados",
+      "price": 19.99,
+      "stock": 40
+    },
+    {
+      "id": 14,
+      "name": "Surtido de Mariscos",
+      "price": 22.99,
+      "stock": 35
+    },
+    {
+      "id": 15,
+      "name": "Trucha Arcoíris",
+      "price": 9.99,
+      "stock": 90
+    },
+    {
+      "id": 16,
+      "name": "Pez Espada",
+      "price": 17.99,
+      "stock": 45
+    },
+    {
+      "id": 17,
+      "name": "Filete de Bacalao",
+      "price": 13.99,
+      "stock": 85
+    },
+    {
+      "id": 18,
+      "name": "Boquerones Congelados",
+      "price": 4.99,
+      "stock": 160
+    },
+    {
+      "id": 19,
+      "name": "Almejas Congeladas",
+      "price": 7.5,
+      "stock": 100
+    },
+    {
+      "id": 20,
+      "name": "Filete de Caballa",
+      "price": 6.5,
+      "stock": 110
+    },
+    {
+      "id": 21,
+      "name": "Rodajas de Marrajo",
+      "price": 12.5,
+      "stock": 80
+    },
+    {
+      "id": 22,
+      "name": "Filete de Sardina",
+      "price": 5.99,
+      "stock": 140
+    },
+    {
+      "id": 23,
+      "name": "Caracoles Congelados",
+      "price": 8.5,
+      "stock": 95
+    },
+    {
+      "id": 24,
+      "name": "Filete de Trucha",
+      "price": 10.5,
+      "stock": 75
+    },
+    {
+      "id": 25,
+      "name": "Pez Mantequilla",
+      "price": 15.99,
+      "stock": 60
+    },
+    {
+      "id": 26,
+      "name": "Filete de Bacaladilla",
+      "price": 7.99,
+      "stock": 120
+    },
+    {
+      "id": 27,
+      "name": "Vieiras Congeladas",
+      "price": 24.99,
+      "stock": 30
+    },
+    {
+      "id": 28,
+      "name": "Pulpo Entero Congelado",
+      "price": 19.5,
+      "stock": 50
+    },
+    {
+      "id": 29,
+      "name": "Calamar Entero",
+      "price": 13.99,
+      "stock": 70
+    },
+    {
+      "id": 30,
+      "name": "Filete de Jurel",
+      "price": 6.99,
+      "stock": 110
+    },
+    {
+      "id": 31,
+      "name": "Langosta Congelada",
+      "price": 29.99,
+      "stock": 20
+    },
+    {
+      "id": 32,
+      "name": "Pargo Rojo",
+      "price": 16.5,
+      "stock": 55
+    },
+    {
+      "id": 33,
+      "name": "Carne de Cangrejo",
+      "price": 14.5,
+      "stock": 65
+    },
+    {
+      "id": 34,
+      "name": "Cazón en Adobo",
+      "price": 9.99,
+      "stock": 100
+    },
+    {
+      "id": 35,
+      "name": "Filete de Mero",
+      "price": 17.5,
+      "stock": 45
+    },
+    {
+      "id": 36,
+      "name": "Gulas al Ajillo",
+      "price": 12.99,
+      "stock": 80
+    },
+    {
+      "id": 37,
+      "name": "Angulas Congeladas",
+      "price": 25.99,
+      "stock": 25
+    },
+    {
+      "id": 38,
+      "name": "Pez Globo",
+      "price": 21.5,
+      "stock": 40
+    },
+    {
+      "id": 39,
+      "name": "Salpicón de Mariscos",
+      "price": 18.99,
+      "stock": 50
+    },
+    {
+      "id": 40,
+      "name": "Gamba Roja",
+      "price": 22.5,
+      "stock": 35
+    },
+    {
+      "id": 41,
+      "name": "Caracoles de Mar",
+      "price": 6.99,
+      "stock": 120
+    },
+    {
+      "id": 42,
+      "name": "Anchoas Congeladas",
+      "price": 7.5,
+      "stock": 130
+    },
+    {
+      "id": 43,
+      "name": "Filete de Tilapia Negro",
+      "price": 8.5,
+      "stock": 100
+    },
+    {
+      "id": 44,
+      "name": "Sardinas Enteras",
+      "price": 5.5,
+      "stock": 150
+    },
+    {
+      "id": 45,
+      "name": "Mejillones Pelados",
+      "price": 6.5,
+      "stock": 110
+    },
+    {
+      "id": 46,
+      "name": "Pez Sierra",
+      "price": 11.5,
+      "stock": 70
+    },
+    {
+      "id": 47,
+      "name": "Tartar de Atún",
+      "price": 19.99,
+      "stock": 40
+    },
+    {
+      "id": 48,
+      "name": "Navajas Congeladas",
+      "price": 13.5,
+      "stock": 65
+    },
+    {
+      "id": 49,
+      "name": "Bacalao Noruego",
+      "price": 20.99,
+      "stock": 50
+    },
+    {
+      "id": 50,
+      "name": "Filete de Lenguado",
+      "price": 15.5,
+      "stock": 75
+    }
+  ]
+}
