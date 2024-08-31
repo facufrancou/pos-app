@@ -4,7 +4,7 @@
       "id": 1,
       "name": "Filete de Merluza",
       "price": 8.99,
-      "stock": 110
+      "stock": 0
     },
     {
       "id": 2,
@@ -299,6 +299,12 @@
       "name": "Filete de Lenguado",
       "price": 15.5,
       "stock": 75
+    },
+    {
+      "id": 51,
+      "name": "Milanesa de pollo",
+      "price": 3500,
+      "stock": 10
     }
   ]
 }

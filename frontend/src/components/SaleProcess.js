@@ -1,22 +1,17 @@
-import React from 'react';
+import React, { useState } from 'react';
 import axios from 'axios';
 
 function SaleProcess({ cart, setCart }) {
+    const [ticketUrl, setTicketUrl] = useState(null);
     const token = localStorage.getItem('token');
 
     const completeSale = () => {
-        const total = cart.reduce((sum, item) => sum + (item.price * item.quantity), 0);
-
-        const saleData = {
-            items: cart,
-            total: total
-        };
-
-        axios.post('http://localhost:5000/api/sales', saleData, {
+        axios.post('http://localhost:5000/api/sales', { items: cart }, {
             headers: { Authorization: `Bearer ${token}` }
         })
-        .then(() => {
+        .then(response => {
             alert('Venta completada');
+            setTicketUrl(`http://localhost:5000${response.data.linkTicket}`);
             setCart([]);
         })
         .catch(error => console.error('Error completando la venta:', error));
@@ -50,6 +45,13 @@ function SaleProcess({ cart, setCart }) {
                         <div className="mt-4">
                             <h4>Subtotal: ${calculateSubtotal().toFixed(2)}</h4>
                             <button onClick={completeSale} className="btn btn-success mt-3">Completar Venta</button>
+                        </div>
+                    )}
+                    {ticketUrl && (
+                        <div className="mt-4">
+                            <a href={ticketUrl} target="_blank" rel="noopener noreferrer" className="btn btn-primary">
+                                Descargar Ticket
+                            </a>
                         </div>
                     )}
                 </div>

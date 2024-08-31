@@ -160,6 +160,317 @@
       "total": 221.88,
       "id": 8,
       "date": "2024-08-30T16:27:39.481Z"
+    },
+    {
+      "items": [
+        {
+          "id": 51,
+          "name": "Milanesa de pollo",
+          "price": 3500,
+          "stock": 10,
+          "quantity": 3
+        }
+      ],
+      "total": 10500,
+      "id": 9,
+      "date": "2024-08-30T22:54:54.189Z"
+    },
+    {
+      "items": [
+        {
+          "id": 1,
+          "name": "Filete de Merluza",
+          "price": 8.99,
+          "stock": 110,
+          "quantity": 12
+        },
+        {
+          "id": 3,
+          "name": "Gambas Congeladas",
+          "price": 15.99,
+          "stock": 60,
+          "quantity": 12
+        }
+      ],
+      "id": 10,
+      "date": "2024-08-31T00:43:26.507Z"
+    },
+    {
+      "items": [
+        {
+          "id": 1,
+          "name": "Filete de Merluza",
+          "price": 8.99,
+          "stock": 110,
+          "quantity": 12
+        },
+        {
+          "id": 3,
+          "name": "Gambas Congeladas",
+          "price": 15.99,
+          "stock": 60,
+          "quantity": 12
+        }
+      ],
+      "id": 11,
+      "date": "2024-08-31T00:43:27.056Z"
+    },
+    {
+      "items": [
+        {
+          "id": 1,
+          "name": "Filete de Merluza",
+          "price": 8.99,
+          "stock": 110,
+          "quantity": 12
+        },
+        {
+          "id": 3,
+          "name": "Gambas Congeladas",
+          "price": 15.99,
+          "stock": 60,
+          "quantity": 12
+        }
+      ],
+      "id": 12,
+      "date": "2024-08-31T00:43:42.587Z"
+    },
+    {
+      "items": [
+        {
+          "id": 1,
+          "name": "Filete de Merluza",
+          "price": 8.99,
+          "stock": 110,
+          "quantity": 12
+        },
+        {
+          "id": 3,
+          "name": "Gambas Congeladas",
+          "price": 15.99,
+          "stock": 60,
+          "quantity": 12
+        }
+      ],
+      "id": 13,
+      "date": "2024-08-31T00:43:43.128Z"
+    },
+    {
+      "items": [
+        {
+          "id": 1,
+          "name": "Filete de Merluza",
+          "price": 8.99,
+          "stock": 110,
+          "quantity": 12
+        },
+        {
+          "id": 3,
+          "name": "Gambas Congeladas",
+          "price": 15.99,
+          "stock": 60,
+          "quantity": 12
+        }
+      ],
+      "total": 299.76,
+      "id": 14,
+      "date": "2024-08-31T00:47:16.699Z"
+    },
+    {
+      "items": [
+        {
+          "id": 1,
+          "name": "Filete de Merluza",
+          "price": 8.99,
+          "stock": 110,
+          "quantity": 10
+        },
+        {
+          "id": 5,
+          "name": "Anillas de Calamar",
+          "price": 7.99,
+          "stock": 150,
+          "quantity": 12
+        }
+      ],
+      "total": 185.78,
+      "id": 15,
+      "date": "2024-08-31T00:49:24.907Z"
+    },
+    {
+      "items": [
+        {
+          "id": 2,
+          "name": "Filete de Salmón",
+          "price": 12.99,
+          "stock": 85,
+          "quantity": 8
+        },
+        {
+          "id": 6,
+          "name": "Filete de Atún",
+          "price": 14.99,
+          "stock": 75,
+          "quantity": 66
+        }
+      ],
+      "total": 1093.26,
+      "id": 16,
+      "date": "2024-08-31T00:58:33.133Z"
+    },
+    {
+      "items": [
+        {
+          "id": 1,
+          "name": "Filete de Merluza",
+          "price": 8.99,
+          "stock": 110,
+          "quantity": 12
+        }
+      ],
+      "total": 107.88,
+      "id": 17,
+      "date": "2024-08-31T00:59:33.215Z"
+    },
+    {
+      "items": [
+        {
+          "id": 3,
+          "name": "Gambas Congeladas",
+          "price": 15.99,
+          "stock": 60,
+          "quantity": 12
+        }
+      ],
+      "total": 191.88,
+      "id": 18,
+      "date": "2024-08-31T01:04:00.278Z"
+    },
+    {
+      "items": [
+        {
+          "id": 1,
+          "name": "Filete de Merluza",
+          "price": 8.99,
+          "stock": 110,
+          "quantity": 3
+        }
+      ],
+      "total": 26.97,
+      "id": 19,
+      "date": "2024-08-31T01:05:46.027Z"
+    },
+    {
+      "items": [
+        {
+          "id": 4,
+          "name": "Calamares en Rodajas",
+          "price": 9.5,
+          "stock": 95,
+          "quantity": 3
+        }
+      ],
+      "total": 28.5,
+      "id": 20,
+      "date": "2024-08-31T01:06:27.220Z"
+    },
+    {
+      "items": [
+        {
+          "id": 2,
+          "name": "Filete de Salmón",
+          "price": 12.99,
+          "stock": 85,
+          "quantity": 4
+        }
+      ],
+      "total": 51.96,
+      "id": 21,
+      "date": "2024-08-31T01:07:11.917Z"
+    },
+    {
+      "items": [
+        {
+          "id": 2,
+          "name": "Filete de Salmón",
+          "price": 12.99,
+          "stock": 85,
+          "quantity": 3
+        }
+      ],
+      "total": 38.97,
+      "id": 22,
+      "date": "2024-08-31T01:08:22.379Z"
+    },
+    {
+      "items": [
+        {
+          "id": 1,
+          "name": "Filete de Merluza",
+          "price": 8.99,
+          "stock": 110,
+          "quantity": 23
+        }
+      ],
+      "total": 206.77,
+      "id": 23,
+      "date": "2024-08-31T01:09:07.285Z"
+    },
+    {
+      "items": [
+        {
+          "id": 1,
+          "name": "Filete de Merluza",
+          "price": 8.99,
+          "stock": 110,
+          "quantity": 12
+        }
+      ],
+      "total": 107.88,
+      "id": 24,
+      "date": "2024-08-31T01:11:30.293Z"
+    },
+    {
+      "items": [
+        {
+          "id": 1,
+          "name": "Filete de Merluza",
+          "price": 8.99,
+          "stock": 110,
+          "quantity": 110
+        }
+      ],
+      "total": 988.9,
+      "id": 25,
+      "date": "2024-08-31T01:12:25.240Z"
+    },
+    {
+      "items": [
+        {
+          "id": 1,
+          "name": "Filete de Merluza",
+          "price": 8.99,
+          "stock": 110,
+          "quantity": 12
+        }
+      ],
+      "total": 107.88,
+      "id": 26,
+      "date": "2024-08-31T01:13:14.987Z"
+    },
+    {
+      "items": [
+        {
+          "id": 1,
+          "name": "Filete de Merluza",
+          "price": 8.99,
+          "stock": 110,
+          "quantity": 110
+        }
+      ],
+      "total": 988.9,
+      "id": 27,
+      "date": "2024-08-31T01:17:21.239Z"
     }
   ]
 }
